@@ -22,25 +22,23 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 K4keye
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  주니어 개발자 k4keye 의 
+  블로그 입니다.
 
 # A shorter description for the sidebar.
 tagline:               >
-  주니어 개발자 k4keye 의 
-  블로그 입니다.
+  주니어 개발자로 살아남기.
 
 # A list of keywords for your blog
 keywords:              []
 
 # Used by jekyll-seo-tag...
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/k4keye.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
@@ -229,7 +227,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/<k4keye>
 
 
 # Other Plugins
