@@ -15,7 +15,7 @@ description: >-                        # used by seo meta and the atom feed
   주니어 개발자의 생존 일지
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'https://k4keye.github.io'
+url: "https://k4keye.github.io"
 
 author: k4keye                  # change to your full name
 
@@ -47,7 +47,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
