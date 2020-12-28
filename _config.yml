@@ -19,7 +19,7 @@ url: "https://k4keye.github.io"
 
 author: k4keye                  # change to your full name
 
-avatar: /assets/img/sample/k4keye.png   # support internet resources
+avatar: /assets/img/sample/avatar.jpg  # support internet resources
 
 github:
   username: k4keye             # change to your github username
@@ -77,7 +77,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # <light|dark>
+theme_mode: dark # <light|dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
