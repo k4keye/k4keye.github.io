@@ -1,34 +1,91 @@
-<hy-drawer>
-  <header id="_sidebar" class="sidebar" role="banner">
-    {% if image.background %}
-      {% capture bg_style %}background:{{ image.background }}{% endcapture %}
-      {% capture bg_class %}sidebar-bg {% if image.overlay %}sidebar-overlay{% endif %}{% endcapture %}
-    {% else %}
-      {% capture bg_style %}background-color:{{ color }};{% if image != 'none' %}background-image:url({% include smart-url url=image %}){% endif %}{% endcapture %}
-      {% capture bg_class %}sidebar-bg {% if image != 'none' %}sidebar-overlay{% endif %}{% endcapture %}
-    {% endif %}
-    <div class="{{ bg_class }}" style="{{ bg_style }}"></div>
+<!--
+  The Side Bar
+  v2.0
+  https://github.com/cotes2020/jekyll-theme-chirpy
+  © 2017-2019 Cotes Chung
+  MIT License
+-->
 
-    <div class="sidebar-sticky">
-      <div class="sidebar-about">
-        <h2 class="h1"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h2>
-        {% assign text = site.tagline | default:site.description %}
-        {% if text %}
-          <p class="{% if text.size > 100 %}fine{% endif %}">
-            {{ text | markdownify | replace:'<p>','' | replace:'</p>','' }}
-          </p>
+<div id="sidebar" class="d-flex flex-column align-items-end">
+
+  <div class="profile-wrapper text-center">
+    <div id="avatar">
+      <a href="{{ site.baseurl }}/" alt="avatar" class="mx-auto">
+        {% assign avatar_url = site.avatar %}
+        {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
+        {% if start == '/' %}
+          {% assign avatar_url = avatar_url | prepend: site.baseurl %}
         {% endif %}
-      </div>
-
-      <nav class="sidebar-nav heading" role="navigation">
-        {% include nav.html %}
-      </nav>
-
-      {% assign author = site.data.authors.first[1] | default:site.author %}
-
-      <div class="sidebar-social">
-        {% include social.html author=author %}
-      </div>
+        <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
+      </a>
     </div>
-  </header>
-</hy-drawer>
+
+    <div class="site-title mt-3">
+      <a href="{{ '/' | relative_url }}">{{- site.title -}}</a>
+    </div>
+
+    <div class="site-subtitle font-italic">{{- site.tagline -}}</div>
+
+  </div><!-- .profile-wrapper -->
+
+  <ul class="w-100">
+    <!-- home -->
+    <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+      <a href="{{ '/' | relative_url }}" class="nav-link">
+        <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
+        <span>{{ "HOME" }}</span>
+      </a>
+    </li>
+    <!-- the real tabs -->
+    {% for tab in site.tabs %}
+    <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+      <a href="{{ tab.url | relative_url }}" class="nav-link">
+        <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
+        <span>{{ tab.title | upcase }}</span>
+      </a>
+    </li> <!-- .nav-item -->
+    {% endfor %}
+
+  </ul> <!-- ul.nav.flex-column -->
+
+  <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center">
+
+    {% for entry in site.data.contact %}
+      {% capture url %}
+        {%- if entry.type == 'github' -%}
+          https://github.com/{{ site.github.username }}
+        {%- elsif entry.type == 'twitter' -%}
+          https://twitter.com/{{ site.twitter.username }}
+        {%- elsif entry.type == 'email' -%}
+          {% assign email = site.social.email | split: '@' %}
+          javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+        {%- elsif entry.type == 'rss' -%}
+          {{ "/feed.xml" | relative_url }}
+        {%- else -%}
+          {{ entry.url }}
+        {%- endif -%}
+      {% endcapture %}
+
+      {% if url %}
+      <a href="{{ url }}" aria-label="{{ entry.type }}"
+        {% unless site.theme_mode %}class="order-{{ forloop.index | plus: 2 }}"{% endunless %}
+        {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
+        <i class="{{ entry.icon }}"></i>
+      </a>
+      {% endif %}
+
+    {% endfor %}
+
+    {% unless site.theme_mode %}
+      {% if site.data.contact.size > 0 %}
+        <span class="icon-border order-2"></span>
+      {% endif %}
+
+      <span id="mode-toggle-wrapper" class="order-1">
+        {% include mode-toggle.html %}
+      </span>
+    {% endunless %}
+
+  </div> <!-- .sidebar-bottom -->
+
+</div><!-- #sidebar -->
