@@ -9,7 +9,7 @@ categories : Personal
 <br/>
 
 # 프로필
-**기준** : 이 글은 2020년 12월 기준 이다.
+(이 글은 2020년 12월 기준 이다.)<br/><br/>
 **나이** : 20대 중반 <br/>
 **경력** : 6개월 <br/>
 **학력** : 학점은행제(2021년 학사취득 예정) <br/>
@@ -25,7 +25,7 @@ categories : Personal
 <br/>
 
 <p align="center">
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbrEXgD%2FbtqPdROwxCV%2FQpWAO55E1OLiKKViiAyqG0%2Fimg.png" >
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbrEXgD%2FbtqPdROwxCV%2FQpWAO55E1OLiKKViiAyqG0%2Fimg.png">
 </p> 
 <br/>
 <br/>
