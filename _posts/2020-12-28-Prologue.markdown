@@ -5,21 +5,24 @@ author: k4keye
 date: 2020-12-29
 categories : Personal
 ---
-
+<br/>
+<br/>
 2020년 블로그 시작 합니다.
-
+<br/>
 # 프로필
-
-**나이** : 20대 중반
-**경력** : 6개월
-**학력** : 학점은행제(2021년 학사취득 예정)
-**직무** : 안드로이드앱(Xamarin) 및 REST API(SpringBoot & AWS)개발
-
+<br/>
+**나이** : 20대 중반 <br/>
+**경력** : 6개월 <br/>
+**학력** : 학점은행제(2021년 학사취득 예정) <br/>
+**직무** : 안드로이드앱(Xamarin) 및 REST API(SpringBoot & AWS)개발 <br/>
+<br/>
+<br/>
 **특이사항**
 - 학점은행제 학과는 보안 학과
 - 스타트업 종사
 - 사수가 없음
-
+<br/>
+<br/>
 ![어..](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbrEXgD%2FbtqPdROwxCV%2FQpWAO55E1OLiKKViiAyqG0%2Fimg.png)
 <br/>
 <br/>
