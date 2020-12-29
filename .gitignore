@@ -1,12 +1,7 @@
-.DS_Store
+# hidden files
+.*
+!.github
 
-# Compiled site
+# jekyll cache
 _site
-.jekyll-cache/
-
-# Sass garbage
-.sass-cache
-
-# Bundler
-.bundle/
-vendor/
+vendor
