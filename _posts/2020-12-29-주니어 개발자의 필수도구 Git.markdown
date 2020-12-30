@@ -18,6 +18,9 @@ categories : EssentialTool
 <br/>
 
 # 1.git 을 사용해보지 않은 이유
+___
+</br>
+
 
 <p align="center">
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqDtD5%2FbtqPibrxOGw%2FhKKk1d0AMOuzjU3qDK0OkK%2Fimg.jpg" >
@@ -47,6 +50,8 @@ Git와 연결도 하고 저장할 때도 Git에다가 커밋 메시지 작성도
 <br/>
 
 # 2. Git을 사용하게 된 이유
+___
+</br>
 
 ![이제 사용!](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSBpz7%2FbtqPeok3jae%2FXMO78vf5I3wFO8zSGjjvN1%2Fimg.png)
 
@@ -92,6 +97,9 @@ Git은 이러한 행동을 매우 유연하게 처리할 수 있게 해준다.<b
 
 
 # 3. CLI GUI
+___
+</br>
+
 아무리 좋다고 해도 어렵게 생각하면 결국 사용하지 않게 된다.
 Git을 사용할 때 꼭 CLI로 사용해야 하는 것은 아니다
 
