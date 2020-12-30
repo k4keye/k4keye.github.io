@@ -10,7 +10,8 @@ categories : DesignPattern
 
 # 1 TemplateMethod Pattern
 ___
-## 1.1 TemplateMethod Pattern(탬플릿 메서드 패턴) </br>
+## **1.1 TemplateMethod Pattern(탬플릿 메서드 패턴)**
+</br>
 어떤 작업을 처리하는 일련의 프로세스를 정의해두고</br>
 서브 클래스가 프로세스에 필요한 역할을 구현하여</br>
 요청하는 입장에서는 프로세스를 호출만을 하게 하여</br>
@@ -32,7 +33,8 @@ ___
 
 위와같은 작업을 수행이 모두 마쳐야만 크롤링이라는 작업이 끝나는것일것이다. 여기서 크롤링 작업이 하나의 프로세스이다.</br></br>
 
-## 1.2 요구 사항 </br>
+## **1.2 요구 사항**
+</br>
 위에서는 크롤링을 예로 들었지만 이번에는 로그인이라는 하나의 프로세스를 기준으로 봐보자
 </br></br>
 
@@ -55,7 +57,8 @@ ___
 # 2. 실습
 ___
 
-## 2.1 코드 구현 <br/>
+## **2.1 코드 구현**
+<br/>
 로그인이라는 하나의 프로세스를 추상 클래스로 구현하였다.<br/>
 
 ``` java
@@ -141,5 +144,6 @@ Console.WriteLine(loginConnect.rquestConnection("id", "pwd"));
 </p>
 
 
-## 2.2 예제 코드 <br/>
+## **2.2 예제 코드**
+<br/>
 [예제 코드 Git 주소 ](https://github.com/k4keye/DesignPattern)

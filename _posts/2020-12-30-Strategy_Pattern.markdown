@@ -11,7 +11,8 @@ categories : DesignPattern
 # 1 Strategy Pattern
 ___
 
-## 1.1 Strategy Pattern(전략 패턴)</br>
+## **1.1 Strategy Pattern(전략 패턴)**
+</br>
 객체들이 할 수 있는 행위들을 클래스로 작성하고 행위를 자유롭게 바꿀 수 있게 하는 패턴으로 </br>
 
 같은 역할을 하는 여러 알고리즘을 여러 클래스로 작성하고 이를 필요할 때 교체하여 </br>
@@ -21,7 +22,8 @@ ___
 
 
 
-## 1.2 요구 사항 </br>
+## **1.2 요구 사항**
+</br>
 
 <p align="center">
     <img src ="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzfkeC%2FbtqPh98sLw0%2FO3q8N11w3EHREzmx0nJq80%2Fimg.png"/>
@@ -41,7 +43,8 @@ ___
 # 2. 실습 
 ___
 
-## 2.1 코드 구현 </br>
+## **2.1 코드 구현**
+</br>
 먼저 필요한 것은 모든 로직이 사용할 API를 구현하기 전에</br>
 
 API에서 전략적으로 바뀔 클래스를 정의할 인터페이스가 먼저 필요하다.</br>
@@ -166,6 +169,7 @@ api.Get();
 setAPI()에서 새로운 API를 추가해서 사용할 수 있게 된다.</br>
 <br/>
 
-## 2.2 예제 코드 <br/>
+## **2.2 예제 코드**
+<br/>
 
 [예제 코드 Git 주소 ](https://github.com/k4keye/DesignPattern)
