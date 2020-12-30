@@ -7,12 +7,14 @@ categories : Docker
 ---
 <br/>
 <br/>
+
+
+# 1 Docker
+___
 <p align="center">
     <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4gTCK%2FbtqQgzkq7Vk%2FIlexoWyawfNyWc4A2hwZQ0%2Fimg.png"/>
 </p>
 
-# 1 Docker
-___
 ## **1.1 도커** <br/>
 Docker 는 **리눅스 컨테이너** 기반으로 하여 특정한 서비스를<br/>
 구축, 테스트 및 배포를 할 수 있는 오픈소스 플랫폼이다.<br/><br/>
