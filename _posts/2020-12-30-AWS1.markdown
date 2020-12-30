@@ -90,7 +90,7 @@ RDS의 이중화는 RDS 생성 시 혹은 수정해서 다중 AZ 배포를 활�
 HTTPS에서 필요한 인증서는 로드밸런서를 사용하게 되면 공짜로 받을 수 있다.<br/>
 따라서 이중화를 하면 자동으로 해결.<br/><br/>
 
-## **2.1 AWS EC2**<br/>
+## **2.6 도매인**<br/>
 <p align="center">
     <img src="https://lh3.googleusercontent.com/8WCVqd6LzeLOmiST1ZHDJ9XwaplGhSF1gV2qXkXsNOGWOiPVnNnAdiev5yeqXhnUEJSJsGrev3A8JH6lLpwRpqhU4fHSlEqF6SvmnrBiqFAffafyTzEtHvaJPJ_0ytYTATLT5Nx_yfM"/>
 </p>
@@ -121,3 +121,6 @@ ___
 대기하고 있던  Slave RDS가 Master로 승격되어 EC2의 처리 요청에 응답해 준다.
 
 ​
+<p align="center">
+    <img src="https://2.gall-img.com/tdgall/files/attach/images/82/502/950/076/6631d436313eedd2dfc01bbf5d20350b.jpg"/>
+</p>
