@@ -55,7 +55,7 @@ ___
 # 2. 실습
 ___
 
-## 2.1 코드 구현
+## 2.1 코드 구현 <br/>
 로그인이라는 하나의 프로세스를 추상 클래스로 구현하였다.<br/>
 
 ``` java
@@ -141,5 +141,5 @@ Console.WriteLine(loginConnect.rquestConnection("id", "pwd"));
 </p>
 
 
-## 2.2 예제 코드
+## 2.2 예제 코드 <br/>
 [예제 코드 Git 주소 ](https://github.com/k4keye/DesignPattern)
