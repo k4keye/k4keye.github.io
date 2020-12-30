@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: K4keye
-  tagline: Android And BackEnd junior Developer. 
+  tagline: 살아남고 싶은 주니어 개발자. 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
