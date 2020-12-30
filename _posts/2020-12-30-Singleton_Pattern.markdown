@@ -1,3 +1,4 @@
+---
 layout: post
 title: Singleton Pattern
 author: k4keye
