@@ -33,10 +33,7 @@ AWS를 통해 서버를 구축하게 되었는데 결과적을 구축된 아키�
 ___
 ## **2.1 AWS EC2**<br/>
 <p align="center">
-    <img src="https://github.com/k4keye/k4keye.github.io/tree/master/images/AWS1/ec2.png"/>
-</p>
-<p align="center">
-    <img src= https://github.com/k4keye/k4keye.github.io/tree/master/images/AWS1/ec2.png/>
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/AWS1/ec2.png"/>
 </p>
 
 AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용하여 서버를 구축했다. <br/>
@@ -57,7 +54,7 @@ AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용�
 
 ## **2.2 RDS**<br/>
 <p align="center">
-    <img src="https://lh5.googleusercontent.com/_j-qOIidoyxZjmvJkbV1SfLZAaholFCRYot1VI4WqYOoi187ZGB4q90x0xI7n7aTxBeSLvL4wZygvJZwNGw-nCONvo3_TykCYWx-44CP7fq3T22RrUKIJ3xbFhTP6uOZ1fZoY8bJ0Y8"/>
+    <img src="./images/AWS1/rds.png"/>
 </p>
 RDS는 마리아 DB를 선택하였고 4CPU, 16G를 준비하였다.<br/>
 
