@@ -33,10 +33,10 @@ AWS를 통해 서버를 구축하게 되었는데 결과적을 구축된 아키�
 ___
 ## **2.1 AWS EC2**<br/>
 <p align="center">
-    <img src="./images/ec2.png"/>
+    <img src="https://github.com/k4keye/k4keye.github.io/tree/master/images/AWS1/ec2.png"/>
 </p>
 <p align="center">
-    <img src= ./images/ec2.png/>
+    <img src= https://github.com/k4keye/k4keye.github.io/tree/master/images/AWS1/ec2.png/>
 </p>
 
 AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용하여 서버를 구축했다. <br/>
