@@ -33,8 +33,12 @@ AWS를 통해 서버를 구축하게 되었는데 결과적을 구축된 아키�
 ___
 ## **2.1 AWS EC2**<br/>
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/R7QSoWmp-17dD2sODDjHOtzpWrXrI4vGcT3ORkUmAXbZffYaWFarYfoUQxGgFSuAAwrHDKah9DkUyRLlGWqLo-yX0zhvmayfubkWzn0jQEDle3i8OON5weGYAj4TBVUwJI22Ti5BaSk"/>
+    <img src="./images/ec2.png"/>
 </p>
+<p align="center">
+    <img src= ./images/ec2.png/>
+</p>
+
 AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용하여 서버를 구축했다. <br/>
 
 여기서 문제는 EC2 가 너무 다양하게 제공하는 것인데 운영체제부터 스펙까지 너무 다양했고 <br/>
@@ -80,7 +84,7 @@ RDS의 이중화는 RDS 생성 시 혹은 수정해서 다중 AZ 배포를 활�
     <img src="https://postfiles.pstatic.net/MjAyMDEyMzBfNjEg/MDAxNjA5MzM3MzUzNjkz.pL9OIXO0gK1dL6TpFbsXWKjPHl1Jh3O1iYLd_bvq6Hcg.UpLuuUdJT3A5BpLATH5JAmMVtg8QOyKCJblr3rYSqMAg.PNG.vps32/image.png?type=w773"/>
 </p>
 
-서버의 가용성을 유지하기 위해 오토스케 링을 사용하였다.<br/>
+서버의 가용성을 유지하기 위해 오토스케일링 을 사용하였다.<br/>
 
 오토스케일링 이를 사용하여 서버의 CPU 혹은 메모리의 정해둔 임계치까지 도달하면<br/>
 서버를 늘리거나 혹은 서버가 다운되면 다른 서버를 생성하는 등 여려 방식이 있지만<br/>
