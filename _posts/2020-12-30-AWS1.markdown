@@ -33,7 +33,7 @@ AWS를 통해 서버를 구축하게 되었는데 결과적을 구축된 아키�
 ___
 ## **2.1 AWS EC2**<br/>
 <p align="center">
-    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/AWS1/ec2.png"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391763-5d582980-4b5e-11eb-90f0-2098cbc1add4.png"/>
 </p>
 
 AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용하여 서버를 구축했다. <br/>
@@ -45,7 +45,7 @@ AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용�
 스펙은 t3a large를 선택하였는데 <br/>
 
 <p align="center">
-    <img src="https://blogfiles.pstatic.net/MjAyMDEyMjhfMjMx/MDAxNjA5MTU0NTYwMjc4.6GGsEmP5q1do2EYtvp4IosJQx9mc6Oxb-1FMPc-4sVEg.c9umugxjDJ5yA3NFu7r_b15RODriNa6E5AkjY4nQKwwg.PNG.vps32/image.png?type=w1"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391766-6648fb00-4b5e-11eb-94ce-3a2bb80cc8ca.png"/>
 </p>
 더 낮은 스펙으로 구성훈 부하 테스트를 해보니 4CPU 16G 정도의 스펙이 필요하다는 걸 알게 되었고<br/>
 
@@ -54,7 +54,7 @@ AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용�
 
 ## **2.2 RDS**<br/>
 <p align="center">
-    <img src="./images/AWS1/rds.png"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391777-6c3edc00-4b5e-11eb-822e-08da3f2db33f.png"/>
 </p>
 RDS는 마리아 DB를 선택하였고 4CPU, 16G를 준비하였다.<br/>
 
@@ -66,7 +66,7 @@ EC2와 같이 이중화를 할 것인데 RDS는 스펙을 절반으로 줄이지
 
 ## **2.3 이중화**<br/>
 <p align="center">
-    <img src="https://lh4.googleusercontent.com/Gj13Nd9iu6yjgF63dD_xRZRGEJbzu3MrbYX04OXHut0TctJisPlIoLNiDevgdNCGdxZCzzSIxIqTQm_yn8gjMhqS3On_so6pL3-INlHyFwm7_gGrcPDisM9nFGC8p2_XEzN2O9lB7ko"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391795-7365ea00-4b5e-11eb-95b4-76d2d0a3b41a.png"/>
 </p>
 이중화를 하기 위해 사용된 것이 AWS의 로드밸런서(ELB)인데<br/>
 
@@ -78,7 +78,7 @@ RDS의 이중화는 RDS 생성 시 혹은 수정해서 다중 AZ 배포를 활�
 
 ## **2.4 서버의 가용성**<br/>
 <p align="center">
-    <img src="https://postfiles.pstatic.net/MjAyMDEyMzBfNjEg/MDAxNjA5MzM3MzUzNjkz.pL9OIXO0gK1dL6TpFbsXWKjPHl1Jh3O1iYLd_bvq6Hcg.UpLuuUdJT3A5BpLATH5JAmMVtg8QOyKCJblr3rYSqMAg.PNG.vps32/image.png?type=w773"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391803-7c56bb80-4b5e-11eb-9166-dd4c996b7739.png"/>
 </p>
 
 서버의 가용성을 유지하기 위해 오토스케일링 을 사용하였다.<br/>
@@ -93,7 +93,7 @@ HTTPS에서 필요한 인증서는 로드밸런서를 사용하게 되면 공짜
 
 ## **2.6 도매인**<br/>
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/8WCVqd6LzeLOmiST1ZHDJ9XwaplGhSF1gV2qXkXsNOGWOiPVnNnAdiev5yeqXhnUEJSJsGrev3A8JH6lLpwRpqhU4fHSlEqF6SvmnrBiqFAffafyTzEtHvaJPJ_0ytYTATLT5Nx_yfM"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391808-84aef680-4b5e-11eb-8660-567262204935.png"/>
 </p>
 도매인은 AWS에서 구입이 가능하지만
 가비아에서 따로 구입해서 사용하였다.<br/><br/>
@@ -101,7 +101,7 @@ HTTPS에서 필요한 인증서는 로드밸런서를 사용하게 되면 공짜
 # 3. 구성도
 ___
 <p align="center">
-    <img src="https://blogfiles.pstatic.net/MjAyMDEyMzBfODkg/MDAxNjA5MzM1NzU2NjU4.6ybQgMJSrtJy65SLwE1Cyd4LA6vIop3jV_GYMt7nvDYg.zJMNmcJGCMU4RMoOTaxBCbpHtiijW5WeKlioN9aYDgEg.PNG.vps32/image.png?type=w1"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391822-95f80300-4b5e-11eb-983f-aab450fe3887.png"/>
 </p>
 <br/>
 
@@ -123,5 +123,5 @@ ___
 
 ​
 <p align="center">
-    <img src="https://2.gall-img.com/tdgall/files/attach/images/82/502/950/076/6631d436313eedd2dfc01bbf5d20350b.jpg"/>
+    <img src="https://user-images.githubusercontent.com/52993842/103391830-9c867a80-4b5e-11eb-82f0-42fd98b2179a.jpg"/>
 </p>
