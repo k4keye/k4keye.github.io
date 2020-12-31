@@ -33,7 +33,7 @@ AWS를 통해 서버를 구축하게 되었는데 결과적을 구축된 아키�
 ___
 ## **2.1 AWS EC2**<br/>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/52993842/103391763-5d582980-4b5e-11eb-90f0-2098cbc1add4.png"/>
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/AWS1/ec2.png?raw=true"/>
 </p>
 
 AWS는 다양한 플랫폼을 제공하지만 그중 대표적인 EC2를 이용하여 서버를 구축했다. <br/>
@@ -93,7 +93,7 @@ HTTPS에서 필요한 인증서는 로드밸런서를 사용하게 되면 공짜
 
 ## **2.6 도매인**<br/>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/52993842/103391808-84aef680-4b5e-11eb-8660-567262204935.png"/>
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/AWS1/gabia.png?raw=true"/>
 </p>
 도매인은 AWS에서 구입이 가능하지만
 가비아에서 따로 구입해서 사용하였다.<br/><br/>
