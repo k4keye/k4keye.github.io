@@ -10,7 +10,7 @@ categories : DesignPattern
 
 # 1 TemplateMethod Pattern
 ___
-## **1.1 TemplateMethod Pattern(탬플릿 메서드 패턴)**
+## **1.1 TemplateMethod Pattern(탬플릿 메소드 패턴)**
 <br/>
 어떤 작업을 처리하는 일련의 프로세스를 정의해두고<br/>
 서브 클래스가 프로세스에 필요한 역할을 구현하여<br/>
