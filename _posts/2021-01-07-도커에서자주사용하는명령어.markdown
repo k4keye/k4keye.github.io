@@ -84,15 +84,15 @@ ENTRYPOINT ["/bin/bash","/home/project/Bash/start.sh"]
 <br/>
 해당 image는 centos7을 기준으로 간다.<br/>
 이미지를 생성할 때 해당 이미지에<br/>
-update , git, net-toole 을 install 하고<br/><br/>
+update , git, net-toole 을 install 하고<br/>
 
-git 프로젝트를 clone 한다.<br/><br/>
+git 프로젝트를 clone 한다.<br/>
 
-로컬에 있는 test.sh를 컨테이너에 /home 경로로 복사한다.<br/><br/>
+로컬에 있는 test.sh를 컨테이너에 /home 경로로 복사한다.<br/>
 
-timezone 을 서울로 한다.<br/><br/>
+timezone 을 서울로 한다.<br/>
 
-clone를 받은 프로젝트로 경로를 이동하여 실행 권한을 준다.<br/><br/>
+clone를 받은 프로젝트로 경로를 이동하여 실행 권한을 준다.<br/>
 
 컨테이너가 실행될 때 해당 프로젝트 안에 있는 shell 을 실행시킨다.<br/><br/>
 
@@ -201,3 +201,9 @@ docker stats {컨테이너 명}
 ```
 docker logs {컨테이너 명}
 ```
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
