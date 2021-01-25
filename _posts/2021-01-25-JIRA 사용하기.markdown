@@ -22,12 +22,12 @@ JIRA는 원래 버그 및 이슈 트레커로 고안된 제품으로<br/>
 
 ## **1.2 JIRA를 통해 할 수 있는 일**<br/>
 
-JIRA는.<br/>
-팀원이 해야 할 일에 대한 워크플로를 정의하여.<br/>
-그에 따라 진행하고 서로의 상태를 확인 하거나.<br/>
-업무에 대해 계층적으로 표현하여 업무들을 정리할 수 있다..<br/>
-.<br/>
-데이터를 기반으로 한 시각적인 표현으로 업무의 효율을 상승시킬 수 있다..<br/>.<br/>
+JIRA는<br/>
+팀원이 해야 할 일에 대한 워크플로를 정의하여<br/>
+그에 따라 진행하고 서로의 상태를 확인 하거나<br/>
+업무에 대해 계층적으로 표현하여 업무들을 정리할 수 있다<br/>
+<br/>
+데이터를 기반으로 한 시각적인 표현으로 업무의 효율을 상승시킬 수 있다<br/><br/>
 
 # 2. JIRA 시작
 ___
@@ -120,8 +120,6 @@ JIRA 에 가입후 프로젝트 생성을 하자.
 
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/11.png?raw=true"/>
-
-
 플랫폼이라는 이슈 유형을 추가해보았다.<br/><br/>
 
 해당 이슈의 아이콘을 변경하려 하면
@@ -167,7 +165,9 @@ JIRA 에 가입후 프로젝트 생성을 하자.
 
 # 3. JIRA 와 GitHub 연동
 ___
+
 ## **3.1 GitHub 연동**<br/>
+
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/15.png?raw=true"/>
 
@@ -179,7 +179,7 @@ JIRA에서 앱을 클릭한다.
 
 GitHub 을 검색하여 다운로드하고 Get Started를 통해 깃허브 로그인을 통해
 
-프로젝트와 연결한다.
+프로젝트와 연결한다.<br/><br/>
 
 ## **3.2 Git Commit를 JIRA 이슈와 연결**<br/>
 
