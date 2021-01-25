@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021 년도 공부 일지
+title: JIRA 처음 사용하기
 author: k4keye
 date: 2021-01-25
 categories : EssentialTool
