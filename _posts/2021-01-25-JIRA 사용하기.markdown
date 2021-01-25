@@ -117,22 +117,20 @@ JIRA 에 가입후 프로젝트 생성을 하자.
 
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/11.png?raw=true"/>
-    
+</p>  
 플랫폼이라는 이슈 유형을 추가해보았다.<br/><br/>
 
 해당 이슈의 아이콘을 변경하려 하면
 
 <p align="center">
-    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/12.png"/>
-
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/12.png?raw=true"/>
+</p>
 이슈 유형에서 변경하고 싶은 유형을 편집하여
 
 <p align="center">
-    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/13.png"/>
-
-아이콘을 변경할 수 있다.
-
-<br/><br/>
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/13.png?raw=true"/>
+</p>
+아이콘을 변경할 수 있다.<br/><br/>
 
 ## **2.4 이슈 유형 분류**<br/>
 
@@ -153,7 +151,7 @@ JIRA 에 가입후 프로젝트 생성을 하자.
 
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/14.png?raw=true"/>
-
+</p>
 
 회원 기능과 통계 기능을 구현하려 할 때
 대분류는 애픽으로 들어가게 된다.
@@ -167,12 +165,12 @@ JIRA 에 가입후 프로젝트 생성을 하자.
 
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/15.png?raw=true"/>
-
+</p>
 JIRA에서 앱을 클릭한다.
 
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/16.png?raw=true"/>
-
+</p>
 
 GitHub 을 검색하여 다운로드하고 Get Started를 통해 깃허브 로그인을 통해
 
@@ -184,7 +182,8 @@ JIRA의 이슈를 작업한 후 해당 내용을 GIt에 Commit를 할 텐데
 이 내용을 해당 JIRA 이슈와 연결할 수 있다.
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/17.png?raw=true"/>
-
+    </p>
+<br/>
 이슈를 생성하면 위와 같이
 이슈 식별 문자가 같이 생성이 되는데
 앞 문자는 프로젝트 생성할 때 기입했던 키이다.
@@ -192,15 +191,15 @@ JIRA의 이슈를 작업한 후 해당 내용을 GIt에 Commit를 할 텐데
 
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/18.png?raw=true"/>
-
+</p>
 해당 이슈를 작업한 후 Commit 메시지에 JIRA 이슈 식별 문자를 포함 시킨 후 PUSH를 하게 되면
 
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/19.png?raw=true"/>
-
+</p>
 위와 같이 JIRA의 해당 이슈 개발 탭에 커밋 내용 추가가 된다.
 이를 클릭해보면
 <p align="center">
     <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/12.png?raw=true"/>
-
+</p>
 커밋 명을 볼 수 있고 클릭하면 GItHub를 통해 해당 Commit를 보여준다.
