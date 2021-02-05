@@ -200,6 +200,59 @@ JIRA의 이슈를 작업한 후 해당 내용을 GIt에 Commit를 할 텐데
 위와 같이 JIRA의 해당 이슈 개발 탭에 커밋 내용 추가가 된다.
 이를 클릭해보면
 <p align="center">
-    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/12.png?raw=true"/>
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/20.png?raw=true"/>
 </p>
 커밋 명을 볼 수 있고 클릭하면 GItHub를 통해 해당 Commit를 보여준다.
+<br/><br/>
+
+# 4. 이슈 관리 
+
+## **4.1 이슈 필터 만들기**<br/>
+JIRA가 아무리 한눈에 전체적인 상황을 볼 수 있다고 해도
+그건 적은 양의 이슈가 있을 때의 얘기인 것 같다.<br/>
+
+이슈가 쌓이다 보면
+<p align="center">
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/21.png?raw=true"/>
+</p>
+너무 보기 힘들다 
+
+이럴 때 필터를 사용해서 내 맘대로 쉽게 볼 수 있게 할 수 있다.
+
+필터는 JQL을 사용해서 작성하지만 JQL로 변환해 주는 곳이 있다.
+
+<p align="center">
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/22.png?raw=true"/>
+</p>
+
+JIRA 상단에 위치한 필터에서 고급 이슈 검색을 들어가자.
+<br/>
+
+<p align="center">
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/23.png?raw=true"/>
+</p>
+
+그러면 위와 같이 설정을 해서 이슈를 검색할 수 있는데 오른쪽을 보면 설정한 옵션을 JQL로 전환하는 버튼이 있다.
+<br/>
+
+<p align="center">
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/24.png?raw=true"/>
+</p>
+위와 같이 전환된 JQL을 복사해서 등록시키면 된다.
+<br/>
+
+<p align="center">
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/25.png?raw=true"/>
+</p>
+빠른 필터에 복사해둔 JQL을 붙여 넣으면 된다.
+
+<br/>
+다시 보드로 돌아가서
+<br/>
+
+<p align="center">
+    <img src="https://github.com/k4keye/k4keye.github.io/blob/master/images/JIRA/26.png?raw=true"/>
+</p>
+
+이렇게 원하는 필터들을 만들어 사용할 수 있다.
+<br/><br/>
