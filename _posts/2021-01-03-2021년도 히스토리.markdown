@@ -29,6 +29,9 @@ ___
 ## Kotlin
 2021-02-23 Kotlin 기초 문법 공부 
 
+## Android 
+2021-02-22 Androidx ViewModel ,LiveData 공부
+
 
 ## 도구 제작
 2021-02-26 Python을 통한 엑셀관련 자동화 도구 제작
