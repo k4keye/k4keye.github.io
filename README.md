@@ -8,7 +8,7 @@
 **희망직무** : Android <br/>
 **학력** : 학점은행제 진행중(2021년 학사취득 예정) <br/>
 **군필여부** : 필 <br/>
-**관심 분야** : Xamarin , Kotiln , Androidx ,  Clean Architecture , TDD , 협업 , 코드리뷰 , 문서화
+**관심 분야** : Xamarin , Kotiln , Androidx , Clean Code , Clean Architecture , TDD , 협업 , 코드리뷰 , 문서화
 
 <br/>
 <br/>
@@ -31,8 +31,8 @@
 3. **서울 호서 직업 전문학교** 
     1. 학원 수료 후 더욱 공부를 하기 위해 학원 수료 후 사이버 해킹 보안과 진학
 4. **교내 네트워크 동아리**
-    1.  학과에 있는 네트워크 동아리(GON) 활동
-    2.  향후 동아리 장으로 활동
+    1. 학과에 있는 네트워크 동아리(GON) 활동
+    2. 향후 동아리 장으로 활동
 5. **TIPS**  
     1. Microsift MVP 김성엽 선생님의 C, C++ 지식 나눔 참여
     2. C ,C++ ,win32API ,MFC 교육 멘티로 참여
@@ -53,7 +53,7 @@
     1. 악성코드 분석 연구회를 활동 중 백신 원리에 대해 관심이 생겨 Python 백신 개발 스터디 진행
 11. **정보보호 올림피아드 문제출제** 
     1. 렌섬웨어 문제를 제작하여 올림피아드 문제 출제 및 운영 활동
-12. **K-Shield jr** : 보안 컨설팅 트랙 PM으로 활동
+12. **K-Shield jr** 
     1. 정보보호 관리 진단 파트 참여
     2. 관리진단 , 취약점 진단 , 모의해킹 교육 이수
     3. 최종프로젝트 PM으로 활동
@@ -110,10 +110,10 @@
 <br/>
 
 # :v: 보유 기술
-**Language** : C# , JAVA , Kotlin , python , assembly , shell  <br/>
+**Language** : C# , JAVA , Kotlin , Python , Assembly , Shell  <br/>
 **Front-End** : Android , Xamarin.form <br/>
 **Back-End** : SprintBoot , Rest-API , JPA <br/>
-**ETC** : AWS EC2, AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  , Docker<br/>
+**ETC** : AWS EC2, AWS 로드벨런서 , AWS Route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  , Docker <br/>
 
 
 <br/>
