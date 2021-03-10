@@ -84,7 +84,7 @@ JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입�
 **Language** : C# , JAVA , Kotlin , Python , Assembly , Shell  <br/>
 **Front-End** : Android , Xamarin <br/>
 **Back-End** : SprintBoot , Rest-API , JPA <br/>
-**ETC** :  Docker , Git , AWS EC2, AWS 로드벨런서 , AWS Route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  <br/>
+**ETC** :  Docker , Git , AWS EC2, AWS LoadBalancer , AWS Route53 , AWS AutoScaling , 네트워크 지식 , 보안 지식  <br/>
 
 <br/>
 <br/>
