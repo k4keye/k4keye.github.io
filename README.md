@@ -77,6 +77,15 @@
 <br/>
 <br/>
 
+# :v: 보유 기술
+**Language** : C# , JAVA , Kotlin , Python , Assembly , Shell  <br/>
+**Front-End** : Android , Xamarin.form <br/>
+**Back-End** : SprintBoot , Rest-API , JPA <br/>
+**ETC** : AWS EC2, AWS 로드벨런서 , AWS Route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  , Docker <br/>
+
+<br/>
+<br/>
+
 # :bulb: 경험
 ## K-Shield
 ### PM으로 프로젝트를 진행하면서 많은 사람들과 원하는 방향으로 나아가 협력하여 결과를 도출해 내는 경험
@@ -109,13 +118,5 @@
 <br/>
 <br/>
 
-# :v: 보유 기술
-**Language** : C# , JAVA , Kotlin , Python , Assembly , Shell  <br/>
-**Front-End** : Android , Xamarin.form <br/>
-**Back-End** : SprintBoot , Rest-API , JPA <br/>
-**ETC** : AWS EC2, AWS 로드벨런서 , AWS Route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  , Docker <br/>
 
-
-<br/>
-<br/>
 
