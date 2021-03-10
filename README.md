@@ -5,7 +5,7 @@
 **블로그** : https://blog.naver.com/vps32<br/>
 **이메일** : vps32@naver.com<br/>
 **경력** : 10개월 (2020-05-06 ~ 현재) <br/>
-**희망직무** : Android <br/>
+**희망직무** : Android ,Back-End <br/>
 **학력** : 학점은행제 진행중(2021년 학사취득 예정) <br/>
 **군필여부** : 필 <br/>
 **관심 분야** : Xamarin , Kotiln , Androidx , Clean Code , Clean Architecture , TDD , 협업 , 코드리뷰 , 문서화
