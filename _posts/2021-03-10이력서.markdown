@@ -12,7 +12,7 @@ categories : Personal
 **생년월일** :  1995.01.12<br/>
 **블로그** : https://blog.naver.com/vps32<br/>
 **이메일** : vps32@naver.com<br/>
-**경력** : 10개월 <br/>
+**경력** : 10개월 (2020-05-06 ~ 현재) <br/>
 **희망직무** : Android <br/>
 **학력** : 학점은행제 진행중(2021년 학사취득 예정) <br/>
 **군필여부** : 필 <br/>
@@ -49,8 +49,10 @@ categories : Personal
 <br/>
 
 # :v: 기술
-___
-
+**Language** : C# , JAVA , Kotlin , python , assembly  <br/>
+**Front-End** : Android , Xamarin.form <br/>
+**Back-End** : SprintBoot , Rest-API , JPA <br/>
+**ETC** : AWS EC2, AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식 <br/>
 
 
 <br/>
