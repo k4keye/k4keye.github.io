@@ -94,23 +94,26 @@
 <br/>
 
 ### AWS 아키텍쳐 설계
-- AWS EC2 , AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , RDS 등을 활용하여 아키텍쳐 설계
+- AWS EC2 , AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , RDS 등을 활용하여 아키텍쳐 설계(50%)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110573970-9258ac00-819f-11eb-8c25-89ab90f6fee4.png" width="800" height="300">
 </p> 
 
 ## REST API 개발
 - SprintBoot + JPA 를 활용하여 RestAPI 서버 개발
+- REST API 설계(50%)
+- REST API 제작(20%)
 
-
+## Xamarin.form 개발
+- Android의 앱을 Xamarin 으로 개발(50%)
 <br/>
 <br/>
 
 # :v: 보유 기술
-**Language** : C# , JAVA , Kotlin , python , assembly  <br/>
+**Language** : C# , JAVA , Kotlin , python , assembly , shell  <br/>
 **Front-End** : Android , Xamarin.form <br/>
 **Back-End** : SprintBoot , Rest-API , JPA <br/>
-**ETC** : AWS EC2, AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식 <br/>
+**ETC** : AWS EC2, AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  , Docker<br/>
 
 
 <br/>
