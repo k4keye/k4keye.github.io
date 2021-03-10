@@ -1,8 +1,8 @@
 
 
 # :bust_in_silhouette: 프로필
-**생년월일** :  1995.01.12<br/>
-**블로그** : https://blog.naver.com/vps32<br/>
+**생년월일** :  1995.01.12 <br/>
+**블로그** : https://blog.naver.com/vps32 <br/>
 **이메일** : vps32@naver.com<br/>
 **경력** : 10개월 (2020-05-06 ~ 현재) <br/>
 **희망직무** : Android ,Back-End <br/>
@@ -16,7 +16,7 @@
 # :rocket: Dev Live
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/52993842/110571299-b36ace00-819a-11eb-8eb5-520137d25742.png">
+  <img src="https://user-images.githubusercontent.com/52993842/110642161-189fdd00-81f6-11eb-8078-d9478e0e526d.png">
 </p> 
 <br/>
 
@@ -57,9 +57,11 @@
     1. 정보보호 관리 진단 파트 참여
     2. 관리진단 , 취약점 진단 , 모의해킹 교육 이수
     3. 실제 기업을 대상으로 컨설팅 하는 최종 프로젝트 PM 으로 수행
-13. **쿰팩토리**
+13. **한국인터넷진흥원 인증서** 
+    1. K-Shield 도중에 진행하는 여러 시험을 통해 총합점수가 상위 기록되면 받는 인증서
+14. **쿰팩토리**
     1. 쇼핑몰 통합 알림 앱(셀러 체크) 개발 팀장으로 활동
-14. **한이음** 
+15. **한이음** 
     1. 빅데이터 와 머신러닝을 활용한 이상 탐지 프로젝트 참여
     2. 앱로그와 ELK 활용
     3. ELK 환경 자동 구축 프로그램 제작
@@ -69,10 +71,10 @@
 # :running: Introduce
 스타트업에서 안드로이드 앱(Xamarin) 과 서버(SprintBoot+AWS)를 기획/개발/운영을 하였으며 주로 안드로이드 앱 개발을 담당하였습니다. <br/>
 항상 부족한 지식을 채우기 위해 자기개발에 노력을 기울이며 <br/>
-지금은 개발팀장으로 활동하면서 좋은 동료와 함계 같이 고민하고 도전해보며 <br/>
+지금은 개발팀장으로 활동하면서 좋은 동료와 함계 같이 고민하고 도전하며 <br/>
 JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입하여 좋은 개발 문화를 만들었습니다. <br/>
 항상 회사 서비스에 도입하기 좋은 기술 혹은 방법론 등이 있다면 <br/>
-도전하여 더욱 좋은 서비스 , 더욱 일하기 좋은 문화를 만들려 노력하였습니다. <br/>
+도전하여 더 좋은 서비스 , 더 일하기 좋은 문화를 만들려 노력하였습니다. <br/>
 
 
 <br/>
@@ -80,7 +82,7 @@ JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입�
 
 # :v: 보유 기술
 **Language** : C# , JAVA , Kotlin , Python , Assembly , Shell  <br/>
-**Front-End** : Android , Xamarin.form <br/>
+**Front-End** : Android , Xamarin <br/>
 **Back-End** : SprintBoot , Rest-API , JPA <br/>
 **ETC** :  Docker , Git , AWS EC2, AWS 로드벨런서 , AWS Route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  <br/>
 
@@ -96,7 +98,7 @@ JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입�
 
 ## 쿰팩토리
 ### 1. 개발 문화 도입
-- JIRA , Slack , Git , GitFlow , 코드 리뷰 , 월회의 금회고 등 도입
+- JIRA , Slack , Git , GitFlow , 코드 리뷰 , 월회의 금회고 , 짝코딩 등 도입
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110573860-5e7d8680-819f-11eb-9bd9-66da6ca60b62.png" width="800" height="300">
 </p> 
@@ -112,11 +114,18 @@ JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입�
 
 ### 3. REST API 개발
 - SprintBoot + JPA 를 활용하여 RestAPI 서버 개발
-- REST API 설계
-- REST API 제작
+- REST API 설계/개발
 
 ### 4. Xamarin.form 개발
 - Android의 앱을 Xamarin 으로 개발
+- 전반적인 UI 및 기능 구현
+
+### 5. 자동화 도구 개발
+- 반복적인 업무는 도구 개발을 통해 자동화 진행.
+- 로그 정리 자동화
+- 서버 배포 자동화
+- 파일 정리 자동화
+- 특정한 도커 명령 자동화
 <br/>
 <br/>
 
