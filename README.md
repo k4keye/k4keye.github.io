@@ -88,32 +88,32 @@
 
 # :bulb: 경험
 ## K-Shield
-### PM으로 프로젝트를 진행하면서 많은 사람들과 원하는 방향으로 나아가 협력하여 결과를 도출해 내는 경험
+- PM으로 프로젝트를 진행하면서 많은 사람들과 원하는 방향으로 나아가 협력하여 결과를 도출해 내는 경험
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110572859-95eb3380-819d-11eb-8593-3c82212ec44a.png">
 </p> 
 
 ## 쿰팩토리
-### 개발 문화 도입
--  JIRA , Slack , Git , GitFlow , 코드 리뷰 , 회의 회고 등 도입
+### 1. 개발 문화 도입
+- JIRA , Slack , Git , GitFlow , 코드 리뷰 , 회의 회고 등 도입
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110573860-5e7d8680-819f-11eb-9bd9-66da6ca60b62.png" width="800" height="300">
 </p> 
 
 <br/>
 
-### AWS 아키텍쳐 설계
+### 2. AWS 아키텍쳐 설계
 - AWS EC2 , AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , RDS 등을 활용하여 아키텍쳐 설계(50%)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110573970-9258ac00-819f-11eb-8c25-89ab90f6fee4.png" width="800" height="300">
 </p> 
 
-## REST API 개발
+### 3. REST API 개발
 - SprintBoot + JPA 를 활용하여 RestAPI 서버 개발
 - REST API 설계(50%)
 - REST API 제작(20%)
 
-## Xamarin.form 개발
+### 4. Xamarin.form 개발
 - Android의 앱을 Xamarin 으로 개발(50%)
 <br/>
 <br/>
