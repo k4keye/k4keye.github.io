@@ -28,7 +28,7 @@ JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입�
 # :rocket: Dev Live
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/52993842/110642161-189fdd00-81f6-11eb-8078-d9478e0e526d.png">
+  <img src="https://user-images.githubusercontent.com/52993842/110650052-8a2f5980-81fd-11eb-97ba-51198e2214b3.png">
 </p> 
 <br/>
 
