@@ -69,7 +69,8 @@
 # :running: Introduce
 스타트업에서 안드로이드 앱(Xamarin) 과 서버(SprintBoot+AWS)를 기획/개발/운영을 하였으며 주로 안드로이드 앱 개발을 담당하였습니다. <br/>
 항상 부족한 지식을 채우기 위해 자기개발에 노력을 기울이며 <br/>
-지금은 개발팀장으로 활동하면서 JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입하여 좋은 개발 문화를 만들었습니다. <br/>
+지금은 개발팀장으로 활동하면서 좋은 동료와 함계 같이 고민하고 도전해보며 <br/>
+JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입하여 좋은 개발 문화를 만들었습니다. <br/>
 항상 회사 서비스에 도입하기 좋은 기술 혹은 방법론 등이 있다면 <br/>
 도전하여 더욱 좋은 서비스 , 더욱 일하기 좋은 문화를 만들려 노력하였습니다. <br/>
 
@@ -81,7 +82,7 @@
 **Language** : C# , JAVA , Kotlin , Python , Assembly , Shell  <br/>
 **Front-End** : Android , Xamarin.form <br/>
 **Back-End** : SprintBoot , Rest-API , JPA <br/>
-**ETC** : AWS EC2, AWS 로드벨런서 , AWS Route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  , Docker <br/>
+**ETC** :  Docker , Git , AWS EC2, AWS 로드벨런서 , AWS Route53 , AWS 오토스케일 , 전반적인 네트워크 지식 , 보안 지식  <br/>
 
 <br/>
 <br/>
@@ -95,7 +96,7 @@
 
 ## 쿰팩토리
 ### 1. 개발 문화 도입
-- JIRA , Slack , Git , GitFlow , 코드 리뷰 , 회의 회고 등 도입
+- JIRA , Slack , Git , GitFlow , 코드 리뷰 , 월회의 금회고 등 도입
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110573860-5e7d8680-819f-11eb-9bd9-66da6ca60b62.png" width="800" height="300">
 </p> 
@@ -103,18 +104,19 @@
 <br/>
 
 ### 2. AWS 아키텍쳐 설계
-- AWS EC2 , AWS 로드벨런서 , AWS route53 , AWS 오토스케일 , RDS 등을 활용하여 아키텍쳐 설계(50%)
+- AWS EC2 , AWS route53 , RDS 등을 활용하여 아키텍쳐 설계
+- AWS 로드벨런서 , AWS 오토스케일 을 활용하여 가용성 유지
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110573970-9258ac00-819f-11eb-8c25-89ab90f6fee4.png" width="800" height="300">
 </p> 
 
 ### 3. REST API 개발
 - SprintBoot + JPA 를 활용하여 RestAPI 서버 개발
-- REST API 설계(50%)
-- REST API 제작(20%)
+- REST API 설계
+- REST API 제작
 
 ### 4. Xamarin.form 개발
-- Android의 앱을 Xamarin 으로 개발(50%)
+- Android의 앱을 Xamarin 으로 개발
 <br/>
 <br/>
 
