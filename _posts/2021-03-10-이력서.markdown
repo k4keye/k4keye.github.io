@@ -2,7 +2,7 @@
 layout: post
 title: 이력서
 author: k4keye
-date: 2021-03-09
+date: 2021-03-10
 categories : Personal
 ---
 <br/>
@@ -26,6 +26,7 @@ categories : Personal
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52993842/110482527-1a04d300-812c-11eb-975f-75bc0cb0f45c.png">
 </p> 
+<br/>
 
 # :mag_right: Dev Live Detail
 
@@ -44,7 +45,6 @@ categories : Personal
 12. **쿰팩토리** :쇼핑몰 통합 알림 앱(셀러체크) 개발 팀장 으로 활동
 13. **한이음** : 빅데이터 와 머신러닝을 활용한 이상탐지 프로젝트 참여
 
-<br/>
 <br/>
 <br/>
 
