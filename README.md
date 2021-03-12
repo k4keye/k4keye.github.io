@@ -111,7 +111,7 @@ JIRA, Slack, Git, GitFlow, 코드 리뷰, 회의 회고 등을 회사에 도입�
 - AWS EC2 , AWS route53 , RDS 등을 활용하여 아키텍쳐 설계
 - AWS 로드벨런서 , AWS 오토스케일 을 활용하여 가용성 유지
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/52993842/110573970-9258ac00-819f-11eb-8c25-89ab90f6fee4.png" width="800" height="300">
+  <img src="https://user-images.githubusercontent.com/52993842/110898516-ba344500-8342-11eb-9b82-9f82953a1db4.png" width="600" height="300">
 </p> 
 
 ### 3. REST API 개발
